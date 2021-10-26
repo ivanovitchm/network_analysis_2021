@@ -19,10 +19,11 @@
 
 ### Lessons
 
-- Week 01 [[Slide]](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/Week_01.pdf)
+- Week 01 [[Slide]](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/week_01.pdf)
   - Course Outline & Syllabus
   - Data Science vs Graph Data Science
   - Historical Context of Network Analysis
   - Google Colab Introduction [[Video]](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca)
   - Google Colab Cont. [[Video]](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11)
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_01/Python_Tutorial.ipynb) [Python Tutorial](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/Python_Tutorial.ipynb)
+  - Further studies [[PDF]](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/optional.pdf)
