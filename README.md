@@ -25,7 +25,7 @@
   - Historical Context of Network Analysis
   - Google Colab Introduction [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca) [![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/qSM33kWgVU8)
   - Google Colab Cont. [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11) [![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/AR7LXN0MQhA)
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_01/Python_Tutorial.ipynb) [Python Tutorial](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/Python_Tutorial.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_01/Python_Tutorial.ipynb) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/Python_Tutorial.ipynb)
   - Further studies [[PDF]](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/optional.pdf)
 
 - Week 02 Network Elements [[Slide]](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_02/week_02_network_elements.pdf)
