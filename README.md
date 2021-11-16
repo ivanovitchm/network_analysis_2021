@@ -38,7 +38,7 @@
   - Graph-Tool [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_02/graph_tool_Network_elements.ipynb) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_02/graph_tool_Network_elements.ipynb)
 
 - Week 03 Exercise 
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_03/week_03_Exercise.ipynb) [Exercise](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_03/week_03_Exercise.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_03/week_03_Exercise.ipynb) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_03/week_03_Exercise.ipynb)
 
 - Week 04 Small Worlds [[Slide]](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_04/Week%20%2304%20Small%20Worlds.pdf)
   - Outline [[Video]](https://www.loom.com/share/849c8c698e054999831dc58365578c96)
