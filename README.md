@@ -28,7 +28,7 @@
   - Further studies [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/optional.pdf)
 
 - Week 02 Network Elements [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_02/week_02_network_elements.pdf)
-  - Outline [[Video]](https://www.loom.com/share/d30a090f147140339cc958979e38c76b)
+  - Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d30a090f147140339cc958979e38c76b) [![Open In Youtube](https://youtu.be/WxQwA-5toj8)
   - Basic Definitions [[Video]](https://www.loom.com/share/38130b95c9644a14a4540c1d818e5da3)
   - Extended Graphs [[Video]](https://www.loom.com/share/7d3dcfdff501422ba29b2915ecfa4ffe)
   - Density, Sparsity and Subnetworks [[Video]](https://www.loom.com/share/feac228e694b4a31b5272012072e778f)
