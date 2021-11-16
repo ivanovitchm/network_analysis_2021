@@ -19,7 +19,7 @@
 
 ### Lessons
 
-- Week 01 [[Slide]](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/week_01.pdf)
+- Week 01 [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/week_01.pdf)
   - Course Outline & Syllabus
   - Data Science vs Graph Data Science
   - Historical Context of Network Analysis
