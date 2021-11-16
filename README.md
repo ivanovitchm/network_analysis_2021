@@ -28,7 +28,7 @@
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_01/Python_Tutorial.ipynb) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/Python_Tutorial.ipynb)
   - Further studies [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_01/optional.pdf)
 
-- Week 02 Network Elements [[Slide]](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_02/week_02_network_elements.pdf)
+- Week 02 Network Elements [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_02/week_02_network_elements.pdf)
   - Outline [[Video]](https://www.loom.com/share/d30a090f147140339cc958979e38c76b)
   - Basic Definitions [[Video]](https://www.loom.com/share/38130b95c9644a14a4540c1d818e5da3)
   - Extended Graphs [[Video]](https://www.loom.com/share/7d3dcfdff501422ba29b2915ecfa4ffe)
