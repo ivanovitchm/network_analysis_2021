@@ -40,3 +40,15 @@
 
 - Week 03 Exercise 
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_03/week_03_Exercise.ipynb) [Exercise](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_03/week_03_Exercise.ipynb)
+
+- Week 04 Small Worlds [[Slide]](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_04/Week%20%2304%20Small%20Worlds.pdf)
+  - Outline [[Video]](https://www.loom.com/share/849c8c698e054999831dc58365578c96)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_04/NetworkX.ipynb) [Networkx Tutorial](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_04/NetworkX.ipynb)
+  - Assortativity [[Video]](https://www.loom.com/share/543cd3247270410bbcf2fcdd785a869d)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_04/Assortativity.ipynb) [Assortativity](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_04/Assortativity.ipynb)
+  - Paths, Walks and Distances [[Video]](https://www.loom.com/share/71c7dd54218e429090dfb331c8587e61)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_04/Walks%2C%20Paths%20and%20Distances.ipynb) [Walks, Path and Distances](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_04/Walks%2C%20Paths%20and%20Distances.ipynb)
+  - Connected Components [[Video]](https://www.loom.com/share/1bd9e8d7a8c7475391a96683aa3ece89)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_04/Connected%20Components.ipynb) [Connected Components](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_04/Connected%20Components.ipynb)
+  - Clustering Coefficient [[Video]](https://www.loom.com/share/551d589f33d542bfa39cab9101a9e400)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_04/Clustering%20Coefficient.ipynb) [Clustering Coefficient](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_04/Clustering%20Coefficient.ipynb)
