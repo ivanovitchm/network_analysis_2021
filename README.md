@@ -62,7 +62,7 @@
 - Week 07 Directed networks: case study of Wikipedia pages
   - Building a networking from Wikipedia pages [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/809147c3bfd64144bc31f12929d16f0a)[![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/EhOhCdkgmxs) 
   - Collecting data from a snowballing process [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/8699a43ceb634bf9814ab4c7ce939af7)[![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/RdU6Kj9N_ow) 
-  - Truncate and eliminate duplicates [[Video]](https://loom.com/share/4ae4c277a136420486a8fefba06dcdc7)
+  - Truncate and eliminate duplicates [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/4ae4c277a136420486a8fefba06dcdc7)[![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/oOgjxfW3qtQ) 
   - Exploring the network [[Video]](https://loom.com/share/a154004b87f84940b965b81dbc3b1b04)
   - Gephi: install [[Video]](https://loom.com/share/61631f96738744f1b8f7272126b95f21)
   - Gephi: quick start [[Video]](https://loom.com/share/59bad93e8d8246e480c765fde01a6d16)
