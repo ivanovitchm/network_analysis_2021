@@ -69,7 +69,7 @@
     - Quick start [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/59bad93e8d8246e480c765fde01a6d16) [![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/fC0CHSAQCNo) 
     - Using layouts [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/b1037653a54646fb8fd29179442a44ff) [![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/pB95pUJk3Og) 
     - Node and network measures  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/3098fe076c3b4ecbb0d784382767798e) [![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/KWfgZ9nSxW0) 
-  - Gephi: visualize and filter [[Video]](https://loom.com/share/031a23a82679458aaadb5a1cd4f76b7c)
+    - Visualize and filter [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/031a23a82679458aaadb5a1cd4f76b7c) [![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/_IOcN_Qg9JU) 
   - Gephi: renderize and export [[Video]](https://loom.com/share/3ded066b56f34436ba419867a2190209)
   - Gephi: highlighting a community [[Video]](https://loom.com/share/710458506c2a4d759cca47c571c0467f)
   - Gephi: deploy the network [[Page link]](https://ivanovitchm.github.io/network_analysis/week_07/network/) [[Video]](https://loom.com/share/f31a2996b3c0438db7fac5fb18f5a54b)
