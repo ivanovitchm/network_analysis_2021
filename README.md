@@ -60,7 +60,7 @@
   - Hands on hubs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis_2021/blob/main/week_06/Hubs.ipynb) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/network_analysis_2021/blob/main/week_06/Hubs.ipynb)
 
 - Week 07 Directed networks: case study of Wikipedia pages
-  - Building a networking from Wikipedia pages  [[Video]](https://loom.com/share/809147c3bfd64144bc31f12929d16f0a)[![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/EhOhCdkgmxs) 
+  - Building a networking from Wikipedia pages [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/809147c3bfd64144bc31f12929d16f0a)[![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/EhOhCdkgmxs) 
   - Collecting data from a snowballing process [[Video]](https://loom.com/share/8699a43ceb634bf9814ab4c7ce939af7)
   - Truncate and eliminate duplicates [[Video]](https://loom.com/share/4ae4c277a136420486a8fefba06dcdc7)
   - Exploring the network [[Video]](https://loom.com/share/a154004b87f84940b965b81dbc3b1b04)
