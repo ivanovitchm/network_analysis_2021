@@ -65,7 +65,7 @@
   - Truncate and eliminate duplicates [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/4ae4c277a136420486a8fefba06dcdc7) [![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/oOgjxfW3qtQ) 
   - Exploring the network [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/a154004b87f84940b965b81dbc3b1b04) [![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/UB_YiaOn5fo)
   - Gephi
-    - Install [[Video]](https://loom.com/share/61631f96738744f1b8f7272126b95f21)
+    - Install [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://loom.com/share/61631f96738744f1b8f7272126b95f21) [![Open In Youtube](https://img.shields.io/badge/-Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/knd18bGGKy8) 
   - Gephi: quick start [[Video]](https://loom.com/share/59bad93e8d8246e480c765fde01a6d16)
   - Gephi: using layouts [[Video]](https://loom.com/share/b1037653a54646fb8fd29179442a44ff)
   - Gephi: node and network measures  [[Video]](https://loom.com/share/3098fe076c3b4ecbb0d784382767798e)
